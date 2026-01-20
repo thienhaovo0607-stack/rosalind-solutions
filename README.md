@@ -33,7 +33,7 @@ The following problems have been completed:
 15. PERM – Enumerating Gene Orders  
 16. PRTM – Calculating Protein Mass  
 17. MRNA – Inferring mRNA from Protein  
-18. REVP – Locating Restriction Sites  
+18. SPLC – RNA Splicing  
 19. RNA – Transcribing DNA into RNA  
 20. IVE – Independent Alleles  
 
